@@ -1,0 +1,49 @@
+###  
+POST http://localhost:3000/register
+content-type:application/json
+
+{     
+    "username":"Ramesh",
+    "email":"ramesh.talluri4@gmail.com",
+    "password":"123456ram",
+    "role":"Admin",
+    
+},
+{     
+    "username":"Ganesh",
+    "email":"ganesh.talluri4@gmail.com",
+    "password":"123456gan",
+    "role":"Admin",
+
+},
+        
+{     
+    "username":"suresh",
+    "email":"suresh.4@gmail.com",
+    "password":"123456sur",
+    "role":"Admin",
+
+},  
+
+{     
+    "username":"gopal",
+    "email":"gopal.email4@gmail.com",
+    "password":"123456gop",
+    "role":"custumer",
+},
+{     
+    "username":"muni",
+    "email":"muni.email4@gmail.com",
+    "password":"123456mun",
+    "role":"maneger",
+
+},
+{     
+    "username":"kiran",
+    "email":"kiran.email4@gmail.com",
+    "password":"123456kir",
+    "role":"maneger",
+
+},
+        
+
